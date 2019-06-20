@@ -27,6 +27,7 @@ input{
     padding: 10px;
     font-size: 20px;
     margin: 100px 220px;
+    outline: none;
 }
 
 input:hover, input:focus{
